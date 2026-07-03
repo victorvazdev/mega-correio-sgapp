@@ -1,0 +1,6 @@
+# Microsoft Word temporary files
+~$*.docx
+
+# Editable versions of the PDFs
+product-backlog.docx
+sprint-backlog.docx
