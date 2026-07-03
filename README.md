@@ -24,8 +24,6 @@ Para o Product Backlog e Sprint Backlog, eles estão disponíveis nos PDFs [prod
 
 ## Vídeo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oRvvJ40JJlc?si=gUOSu-bUqfCGm0_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Ou pelo link:
+O vídeo de apresentação está disponível no YouTube no link abaixo:
 <br>
 [https://youtu.be/oRvvJ40JJlc](https://youtu.be/oRvvJ40JJlc)
