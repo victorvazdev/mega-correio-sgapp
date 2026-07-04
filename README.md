@@ -8,19 +8,19 @@ Esse repositório contém o Wireframe do projeto móvel, o Canvas MVP e Backlog 
 
 ## Wireframe
 
-Você pode acessar os prints do Wireframe na pasta [wireframes](/tree/main/wireframes/).
+Você pode acessar os prints do Wireframe na pasta [wireframes](/wireframes/).
 
 
 ## Canvas MVP
 
-É possível acessar o Canvas MVP pelo link disponibilizado no arquivo [canvas-url.txt](/blob/main/canvas-url.txt) ou pelo link abaixo:
+É possível acessar o Canvas MVP pelo link disponibilizado no arquivo [canvas-url.txt](/canvas-url.txt) ou pelo link abaixo:
 <br>
 [https://miro.com/app/board/uXjVHHytYS0=/?share_link_id=373453381285](https://miro.com/app/board/uXjVHHytYS0=/?share_link_id=373453381285)
 
 
 ## Backlog
 
-Para o Product Backlog e Sprint Backlog, eles estão disponíveis nos PDFs [product-backlog.pdf](/blob/main/product-backlog.pdf) e [sprint-backlog.pdf](/blob/main/sprint-backlog.pdf).
+Para o Product Backlog e Sprint Backlog, eles estão disponíveis nos PDFs [product-backlog.pdf](/product-backlog.pdf) e [sprint-backlog.pdf](/sprint-backlog.pdf).
 
 ## Vídeo
 
